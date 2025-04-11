@@ -1,4 +1,4 @@
-# 🚀 Nervesparks Server Generator
+# 🚀 Server Generator
 
 This project is a simple Node.js-based server generator that reads a structured JSON file and automatically generates a working Express.js server. It supports route creation, middleware, and access control (auth/admin).
 
