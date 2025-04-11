@@ -1,6 +1,3 @@
-### 📄 `README.md`
-
-```markdown
 # 🚀 Nervesparks Server Generator
 
 This project is a simple Node.js-based server generator that reads a structured JSON file and automatically generates a working Express.js server. It supports route creation, middleware, and access control (auth/admin).
@@ -8,7 +5,6 @@ This project is a simple Node.js-based server generator that reads a structured 
 ---
 
 ## 📁 Folder Structure
-
 ```
 nervesparks-server-generator/
 ├── generateServer.js        # Script that reads config and generates server
